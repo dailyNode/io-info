@@ -20,3 +20,4 @@ so many people talk about io, so let read it~
 15. [Hacker news comments](https://news.ycombinator.com/item?id=8695558)
 16. [io.js 非官方聲明，中文版本](https://gist.github.com/clonn/16c3fe6a46dbad3bea92)
 17. [IO naming conflict with Io programming language](https://github.com/node-forward/discussions/issues/19)
+18. [Node.js Advisory Board](https://www.joyent.com/blog/node-js-advisory-board)
