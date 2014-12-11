@@ -21,3 +21,4 @@ so many people talk about io, so let read it~
 16. [io.js 非官方聲明，中文版本](https://gist.github.com/clonn/16c3fe6a46dbad3bea92)
 17. [IO naming conflict with Io programming language](https://github.com/node-forward/discussions/issues/19)
 18. [Node.js Advisory Board](https://www.joyent.com/blog/node-js-advisory-board)
+19. [io.js TC Meeting 2014-12-10](https://github.com/rvagg/io.js/blob/tc-minutes-2014-12-10/doc/tc-meetings/2014-12-10.md)
