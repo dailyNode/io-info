@@ -24,3 +24,4 @@ so many people talk about io, so let read it~
 19. [io.js TC Meeting 2014-12-10](https://github.com/rvagg/io.js/blob/tc-minutes-2014-12-10/doc/tc-meetings/2014-12-10.md)
 20. [Node.js is forked, not f***ed.](http://wesleyio.tumblr.com/post/104637877991/node-js-is-forked-not-f-ed)
 21. [Why Node.js Is Facing A Possible Open-Source Schism](http://readwrite.com/2014/11/12/node-js-joyent-possible-fork-schism)
+22. [On Corporate Ownership of Open Source](https://medium.com/@mikeal/on-corporate-ownership-of-open-source-786ebd15847e)
