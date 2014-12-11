@@ -22,3 +22,4 @@ so many people talk about io, so let read it~
 17. [IO naming conflict with Io programming language](https://github.com/node-forward/discussions/issues/19)
 18. [Node.js Advisory Board](https://www.joyent.com/blog/node-js-advisory-board)
 19. [io.js TC Meeting 2014-12-10](https://github.com/rvagg/io.js/blob/tc-minutes-2014-12-10/doc/tc-meetings/2014-12-10.md)
+20. [Node.js is forked, not f***ed.](http://wesleyio.tumblr.com/post/104637877991/node-js-is-forked-not-f-ed)
