@@ -14,3 +14,4 @@ so many people talk about io, so let read it~
 9. [iojs.org](http://iojs.org/)
 10. [知乎上怎么看待近日 io.js 事件？](http://www.zhihu.com/question/26897333/answer/34459718)
 11. [Initial Release](https://github.com/iojs/io.js/issues/28)
+12. [gist上的](https://gist.github.com/maxogden/d96123138522c84cdb25)
