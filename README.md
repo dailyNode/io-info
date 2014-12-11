@@ -10,3 +10,4 @@ so many people talk about io, so let read it~
 5. [Feature Request: Every async function returns Promise](https://github.com/iojs/io.js/issues/11#issuecomment-66233959)
 6. [Isaac's blog](http://blog.izs.me/post/104685388058/io-js)
 7. [StrongLoop’s Position on io.js](http://strongloop.com/strongblog/position-on-io-js/)
+8. [logo ideas](https://github.com/iojs/io.js/issues/37#issuecomment-65897631)
