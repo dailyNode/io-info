@@ -18,3 +18,4 @@ so many people talk about io, so let read it~
 13. [io.js TC Meeting -- December 2nd 2014 in youtube](https://www.youtube.com/watch?v=Z1UlIJMS6qs)
 14. [node-forward's discussions](https://github.com/node-forward/discussions/issues)
 15. [Hacker news comments](https://news.ycombinator.com/item?id=8695558)
+16. [io.js 非官方聲明，中文版本](https://gist.github.com/clonn/16c3fe6a46dbad3bea92)
