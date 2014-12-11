@@ -15,4 +15,4 @@ so many people talk about io, so let read it~
 10. [知乎上怎么看待近日 io.js 事件？](http://www.zhihu.com/question/26897333/answer/34459718)
 11. [Initial Release](https://github.com/iojs/io.js/issues/28)
 12. [gist上的](https://gist.github.com/maxogden/d96123138522c84cdb25)
-13. [io.js TC Meeting -- December 2nd 2014](https://www.youtube.com/watch?v=Z1UlIJMS6qs)
+13. [io.js TC Meeting -- December 2nd 2014 in youtube](https://www.youtube.com/watch?v=Z1UlIJMS6qs)
