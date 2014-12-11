@@ -12,3 +12,4 @@ so many people talk about io, so let read it~
 7. [StrongLoop’s Position on io.js](http://strongloop.com/strongblog/position-on-io-js/)
 8. [logo ideas](https://github.com/iojs/io.js/issues/37#issuecomment-65897631)
 9. [iojs.org](http://iojs.org/)
+10. [知乎上怎么看待近日 io.js 事件？](http://www.zhihu.com/question/26897333/answer/34459718)
